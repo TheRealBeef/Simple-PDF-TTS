@@ -16,8 +16,7 @@ print("Playback finished.")
 
 
 
-Needed to run
-
+# Needed to run
 # sudo apt-get update
 # sudo apt-get install --reinstall alsa-base pulseaudio
 # sudo alsa force-reload

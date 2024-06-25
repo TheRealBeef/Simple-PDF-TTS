@@ -1,0 +1,6 @@
+pymupdf
+librosa==0.10.0
+numpy==1.28.0
+sounddevice==0.4.7
+torch==2.3.1
+TTS==0.22.0
