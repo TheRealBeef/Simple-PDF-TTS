@@ -1,6 +1,6 @@
 # Simple PDF TTS
 
-Set up a Conva virtual environment, install the torch relevant for your CUDA version (unless you want to run CPU only inferencing), and install requirements.txt
+Set up a Conda virtual environment, install the torch relevant for your CUDA version (unless you want to run CPU only inferencing), and install requirements.txt
 
 Tested on Ubuntu 24.04
 
